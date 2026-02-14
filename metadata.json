@@ -1,0 +1,7 @@
+{
+  "name": "MedSwap Pro",
+  "description": "A professional hospital-to-hospital marketplace for swapping overstock medical supplies, pharmaceuticals, and equipment to reduce waste and improve community health access.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
